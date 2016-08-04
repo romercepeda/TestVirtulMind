@@ -10,3 +10,15 @@ J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\bin\Debug\EntityFr
 J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\bin\Debug\EntityFramework.SqlServer.xml
 J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\obj\Debug\Users.dll
 J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\obj\Debug\Users.pdb
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\bin\Debug\Users.dll.config
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\bin\Debug\Users.dll
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\bin\Debug\Users.pdb
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\bin\Debug\EntityFramework.dll
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\bin\Debug\Modelo.dll
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\bin\Debug\Modelo.pdb
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\bin\Debug\EntityFramework.xml
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\obj\Debug\Users.csprojResolveAssemblyReference.cache
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\obj\Debug\Users.dll
+C:\Users\usrsis0146\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\MyRestFullApp\Users\obj\Debug\Users.pdb

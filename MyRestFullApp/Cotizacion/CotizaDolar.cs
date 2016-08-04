@@ -21,10 +21,7 @@ public class CotizaDolar : ICotizacion
             using (HttpWebResponse response = request.GetResponse() as HttpWebResponse)
             {
                 if (response.StatusCode != HttpStatusCode.OK)
-                    throw new Exception(String.Format(
-                    "Server error (HTTP {0}: {1}).",
-                    response.StatusCode,
-                    response.StatusDescription));
+                    throw new Exception(String.Format("Server error (HTTP {0}: {1}).",response.StatusCode,response.StatusDescription));
                 StreamReader reader = new StreamReader(response.GetResponseStream());
                 string data = reader.ReadToEnd();
 

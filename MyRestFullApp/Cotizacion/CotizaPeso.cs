@@ -14,7 +14,8 @@ public class CotizaPeso : ICotizacion
 	public string CotizarMoneda(string uri)
 	{
         System.ArgumentException argEx = new System.ArgumentException("401 no authorized de http", "index");
-        throw argEx;
+        
+throw argEx;
 	}
 
 }
