@@ -1,0 +1,12 @@
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\obj\Debug\Users.csprojResolveAssemblyReference.cache
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\bin\Debug\Users.dll.config
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\bin\Debug\Users.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\bin\Debug\Users.pdb
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\bin\Debug\EntityFramework.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\bin\Debug\EntityFramework.SqlServer.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\bin\Debug\Modelo.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\bin\Debug\Modelo.pdb
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\bin\Debug\EntityFramework.xml
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\bin\Debug\EntityFramework.SqlServer.xml
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\obj\Debug\Users.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Users\obj\Debug\Users.pdb
