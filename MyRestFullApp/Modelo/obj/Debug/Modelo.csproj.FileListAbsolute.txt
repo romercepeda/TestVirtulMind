@@ -1,0 +1,9 @@
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Modelo\bin\Debug\Modelo.dll.config
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Modelo\bin\Debug\Modelo.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Modelo\bin\Debug\Modelo.pdb
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Modelo\bin\Debug\EntityFramework.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Modelo\bin\Debug\EntityFramework.xml
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Modelo\obj\Debug\Modelo.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Modelo\obj\Debug\Modelo.pdb
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Modelo\bin\Debug\EntityFramework.SqlServer.xml

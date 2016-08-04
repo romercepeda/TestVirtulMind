@@ -1,0 +1,5 @@
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Cotizacion\bin\Debug\Cotizacion.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Cotizacion\bin\Debug\Cotizacion.pdb
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Cotizacion\obj\Debug\Cotizacion.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Cotizacion\obj\Debug\Cotizacion.pdb
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache

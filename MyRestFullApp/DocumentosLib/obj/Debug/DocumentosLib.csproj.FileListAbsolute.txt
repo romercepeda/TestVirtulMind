@@ -1,0 +1,5 @@
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\DocumentosLib\bin\Debug\DocumentosLib.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\DocumentosLib\bin\Debug\DocumentosLib.pdb
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\DocumentosLib\obj\Debug\DocumentosLib.dll
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\DocumentosLib\obj\Debug\DocumentosLib.pdb
+J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\DocumentosLib\obj\Debug\DocumentosLib.csprojResolveAssemblyReference.cache

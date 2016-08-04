@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+  <Alias Key="Model" Value="ModelE" />
+  <Alias Key="Target" Value="ModelE.Store" />
+  <EntityContainerMapping CdmEntityContainer="ModelEContainer" StorageEntityContainer="ModelEStoreContainer">
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="ModelE.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="Diagnostic" Text="ProjectPath = ..\DocumentosLib\DocumentosLib.csproj" />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="Medium" Text="Documentos's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'Documentos::Contexto_Servicio' -  (Class), 'Documentos::CotizaDolar' -  (Class), 'Documentos::CotizaPeso' -  (Class), 'Documentos::CotizaReales' -  (Class) " />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="Medium" Text="'Documentos::Contexto_Servicio' -  (Class) : success (file created) - J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\DocumentosLib\GeneratedCode\Contexto_Servicio.cs" />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="Medium" Text="'Documentos::CotizaDolar' -  (Class) : success (file created) - J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\DocumentosLib\GeneratedCode\CotizaDolar.cs" />
+  <Message Timestamp="2016-08-03T22:53:56" Importance="Medium" Text="'Documentos::CotizaPeso' -  (Class) : success (file created) - J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\DocumentosLib\GeneratedCode\CotizaPeso.cs" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Medium" Text="'Documentos::CotizaReales' -  (Class) : success (file created) - J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\DocumentosLib\GeneratedCode\CotizaReales.cs" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="Name = InterfaceTemplate" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="ProjectPath = ..\DocumentosLib\DocumentosLib.csproj" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Medium" Text="Documentos's Text Template Binding: 'InterfaceTemplate' will apply InterfaceTemplate.t4 to: 'Documentos::ICotizacion' -  (Interface) " />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Medium" Text="'Documentos::ICotizacion' -  (Interface) : success (file created) - J:\RCDropBox\Dropbox\Personal\TestVirtual\MyRestFullApp\DocumentosLib\GeneratedCode\ICotizacion.cs" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="ProjectPath = ..\DocumentosLib\DocumentosLib.csproj" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Medium" Text="Documentos's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'Documentos::Contexto_Servicio' -  (Class), 'Documentos::CotizaDolar' -  (Class), 'Documentos::CotizaPeso' -  (Class), 'Documentos::CotizaReales' -  (Class) " />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="'Documentos::Contexto_Servicio' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="'Documentos::CotizaDolar' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="'Documentos::CotizaPeso' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="'Documentos::CotizaReales' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="The selection included 4 elements which were not bound to a template." />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="'Documentos::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="'Documentos::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="'Documentos::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="Diagnostic" Text="'Documentos::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2016-08-03T22:53:57" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
